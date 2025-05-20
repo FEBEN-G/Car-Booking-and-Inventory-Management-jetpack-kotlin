@@ -34,9 +34,3 @@ Efficiently manage the booking lifecycle for both customers and administrators.
 - **Demand Analysis:** Identify the most booked cars and understand overall demand patterns.
 - **Data Export:** Export valuable business data as PDF or CSV reports for further analysis.
 
-### Contributors
-- Abdulhafiz Jemal - UGR/2366/15
-- Eyosyas Solomon - UGR/9247/15
-- Feben Getachew - UGR/4295/15
-- Merertu Philipose - UGR/4906/15
-- Reyan Berhanu - UGR/1650/15
